@@ -57,8 +57,23 @@ This project focuses on HR data analysis to gain insights into employee working 
 
 - Employees – For transparency in attendance and leave records.
 ## 📷 Sample Dashboard Preview
-![image]([https://github.com/user-attachments/assets/3439cc75-e7e8-4675-875c-ae1620788e6b](https://github.com/BahreHailemariam/HR-Analysis-using-Excel-and-Power-BI/blob/main/Over_all_Insight.png))
-
+Analyze employee **working preference** (Work From Home vs. In-Office presence).Track **attendance records** for monitoring punctuality and absences.
+<br />Review **sick leave requests** to identify trends and potential workforce issues.<br />
+Provide **presence insights** for HR and management decision-making.
+Percentage of employees preferring **WFH vs. Presence.**
+![image](Over_all_Insight.png)
+- **Presence Percentage** : started trending down on Tuesday, January 11,2022,falling by 8.46%(8.19%) in 5 days.
+- **Steep trend in Presence Percentage** : Presence % dropped from 96.79% to 88.61% during its steepest decline between Tuesday, January 11,2022 and Sunday, January 16,2022.
+- **Long trend in Presence Percentage** : Presence % experienced the longest period of growth(+1.04%) between Sunday, January 2, 2022 and Saturday, January 8, 2022.
+![image](Aprill_2022.png)
+- **Recent trend in WFH Percentage** : WFH % started trending up on Friday, January 7, 2022, rising by 66.69%(4.38%) in 13 days.
+- **Steep trend in WFH Percentage** : WFH% jumped from 6.57% to 10.96% during its steepest incline between Friday, January 7, 2022 and Thursday, January 20, 2022.
+- **Long trend in WFH Percentage** : WFH % experienced the longest period of growth(+4.38%) between Friday, January 7, 2022 and Thursday, January 20, 2022.
+![image](May_2022.png)
+- **Recent trend in SL Percentage** : SL % started trending up on Wednesday, January 26, 2022, rising by 331.02%(4.16%) in 4 days.
+- **Steep trend in SL Percentage** : SL% jumped from 1.26% to 5.42% during its steepest incline between Wednesday, January 26, 2022 and Sunday, January 30, 202.
+- **Long trend in SL Percentage** : SL % experienced the longest period of growth(+0.30%) between Tuesday, January 4, 2022 and Tuesday, January 25, 2022.
+![image](June_2022.png)
 ## 📬 Contact
 
 For questions or collaboration:

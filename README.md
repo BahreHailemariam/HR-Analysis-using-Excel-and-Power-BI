@@ -61,6 +61,7 @@ This project focuses on HR data analysis to gain insights into employee working 
 ## 📬 Contact
 
 For questions or collaboration:
-Bahre Hailemariam – Linked[Inhttps://www.linkedin.com/in/bahre-hailemariam/]
- | GitHub
- 
+👤 Bahre Hailemariam <br /> 
+📧 bahre.hail@gmail.com
+
+🌐 https://www.linkedin.com/in/bahre-hailemariam/

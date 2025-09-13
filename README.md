@@ -57,6 +57,7 @@ This project focuses on HR data analysis to gain insights into employee working 
 
 - Employees – For transparency in attendance and leave records.
 ## 📷 Sample Dashboard Preview
+![image]([https://github.com/user-attachments/assets/3439cc75-e7e8-4675-875c-ae1620788e6b](https://github.com/BahreHailemariam/HR-Analysis-using-Excel-and-Power-BI/blob/main/Over_all_Insight.png))
 
 ## 📬 Contact
 
